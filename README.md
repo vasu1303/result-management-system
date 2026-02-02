@@ -1,6 +1,14 @@
+# Result Management System
+
 This repository contains the code for a basic frontend only Result Management System.
 
 Repository Link : [Click here](https://github.com/vasu1303/result-management-system)
+
+### Images
+<img width="519" height="522" alt="image" src="https://github.com/user-attachments/assets/cfb70291-b773-488e-a44b-2ff081ebddcd" />
+<img width="519" height="522" alt="image" src="https://github.com/user-attachments/assets/52cc302e-f31e-47d0-b709-feabbf954924" />
+
+
 
 ### Stack Used:
 - HTML

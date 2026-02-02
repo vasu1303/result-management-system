@@ -1,0 +1,72 @@
+/* Header Styling - Green Background */
+.main-header {
+    background-color: #28a745;
+    color: white;
+    padding: 15px 0;
+    margin-bottom: 20px;
+  }
+  
+  .header-title {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  /* Form Styling */
+  .form-view {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .form-heading {
+    text-align: center;
+    text-decoration: underline;
+  }
+  
+  .form-label {
+    font-weight: 500;
+    margin-bottom: 5px;
+  }
+  
+  /* Button Group Styling */
+  .button-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .add-btn {
+    min-width: 100px;
+  }
+  
+  .view-all-btn {
+    min-width: 100px;
+  }
+  
+  .back-btn {
+    min-width: 80px;
+  }
+  
+  .results-view {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .header-title {
+      font-size: 1.2rem;
+    }
+    
+    .button-group {
+      flex-direction: column;
+    }
+    
+    .button-group button {
+      width: 100%;
+    }
+  }
